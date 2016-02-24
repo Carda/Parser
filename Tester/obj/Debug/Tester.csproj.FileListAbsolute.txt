@@ -1,0 +1,2 @@
+D:\GenericParser\GenericParser\Tester\bin\Debug\Tester.exe.config
+D:\GenericParser\Tester\bin\Debug\Tester.exe.config
