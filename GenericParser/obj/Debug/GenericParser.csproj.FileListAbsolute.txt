@@ -1,0 +1,4 @@
+E:\Projects\tfssrv1\OlayYonetimiAksiyonRaporlama\Dev\GenericParser\GenericParser\bin\Debug\GenericParser.dll
+E:\Projects\tfssrv1\OlayYonetimiAksiyonRaporlama\Dev\GenericParser\GenericParser\bin\Debug\GenericParser.pdb
+E:\Projects\tfssrv1\OlayYonetimiAksiyonRaporlama\Dev\GenericParser\GenericParser\obj\Debug\GenericParser.dll
+E:\Projects\tfssrv1\OlayYonetimiAksiyonRaporlama\Dev\GenericParser\GenericParser\obj\Debug\GenericParser.pdb
